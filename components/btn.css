@@ -1,0 +1,19 @@
+.form-btn {
+  text-align: center;
+  padding: 12px;
+  border-radius: 12px;
+  background-color: #6998AB;
+  border: none;
+  color: #1A374D;
+  margin: auto 12px;
+  transition: 0.2s;
+}
+
+.form-btn:hover {
+  background-color: #B1D0E0;
+  cursor: pointer;
+}
+
+.btn-center {
+  text-align: center;
+}

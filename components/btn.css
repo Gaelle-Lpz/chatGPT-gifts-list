@@ -1,17 +1,21 @@
 .form-btn {
   text-align: center;
-  padding: 12px;
+  padding: 6px;
   border-radius: 12px;
   background-color: #6998AB;
   border: none;
-  color: #1A374D;
+  color: white;
   margin: auto 12px;
   transition: 0.2s;
+  width: 250px;
+  height: 60px;
+  font-size: 24px;
 }
 
 .form-btn:hover {
-  background-color: #B1D0E0;
+  background-color: white;
   cursor: pointer;
+  color: #1A374D;
 }
 
 .btn-center {

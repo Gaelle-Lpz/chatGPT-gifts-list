@@ -1,11 +1,13 @@
+/* import components */
 @import url("components/container.css");
 @import url("components/form.css");
 @import url("components/btn.css");
+@import url("components/loading.css");
 
-/* font */
+/* import font */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Unbounded&display=swap');
 
-
+/*-font */
 body {
   background-color: #1A374D;
   color: white;
